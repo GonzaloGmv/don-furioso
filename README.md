@@ -1,9 +1,20 @@
-## Matricula:
+## Link
 
-<img width="518" alt="susuki" src="https://github.com/GonzaloGmv/don-furioso/assets/91721643/58ee2efc-319c-49e6-9605-dce111b493e1">
+El link del repositorio es el siguiente: 
 
 
-Esta es la captura de los datos sacados buscando entre los archivos, donde hemos logrado llegar a esto sdatos, matrícula,color...
+
+## Codigo usando BeautifulSoup
+
+![furioso](https://github.com/GonzaloGmv/don-furioso/assets/91721643/ae6ac0e3-85ec-4b8d-ba2c-233869864381)
+
+
+Para poder haber realizado el código, hemos accedido a la s carpetas del zip dado en el enunciado, y hemos accedido a la carpeta Mail, y dentro de esta el archivo Inbox, a partir de la cual hemos podido sacar la historia del Señor furioso, y es el contenido que hemos usado en nuestro código con  BeautifulSoup para ser capaces de buscar la matrícula.
+
+
+
+<img width="960" alt="furia" src="https://github.com/GonzaloGmv/don-furioso/assets/91721643/9d5728f2-95b3-4938-a6d0-08e28b523641">
+
 
 
 ## Resumen historia Señor Furioso
@@ -14,5 +25,8 @@ Además, descubrió que necesitaba cambiar dos ruedas debido a actos de vandalis
 
 
 
-## Codigo usando BeautifulSoup
+
+
+
+
 
